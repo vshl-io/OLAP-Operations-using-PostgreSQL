@@ -1,4 +1,4 @@
-# Project-OLAP-Operations-using-PostgreSQL
+# Project: OLAP Operations using PostgreSQL
 
 This repository contains SQL scripts and query screenshots for performing OLAP operations on a sales dataset.
 
